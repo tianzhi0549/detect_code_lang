@@ -1,0 +1,29 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script src="js/features/features.js"></script>
+<script src="js/detect_lang.js"></script>
+<script>
+	window.onload=(function (){
+		document.getElementById("detect").
+			onclick=(function (){
+					var lang=detect_lang(document.
+						getElementById("code").value);
+					document.getElementById("result").
+						innerHTML="The result is "+lang+".";
+			});
+	})
+</script>
+<title>detect_code_lang</title>
+</head>
+<body>
+	<textarea cols="70" rows="20" placeholder="Input your code here." id="code">int main()
+{
+    return 0;
+}
+</textarea>
+    <div><button id="detect">Detect</button></div>
+    <a id="result">The result will be shown here.</a>
+</body>
+</html>
