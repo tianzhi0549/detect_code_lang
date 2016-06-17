@@ -1,42 +1,41 @@
 detect_code_lang
 ================
 
-ÕâÊÇÒ»¸ö×Ô¶¯Ê¶±ğ´úÂëÆ¬¶ÎËùÊ¹ÓÃµÄ±à³ÌÓïÑÔµÄÏîÄ¿¡£
-Ëû·Ç³£¼òµ¥£¬µ«±È½ÏÓĞĞ§¡£ÆğÂëÔÚÎÒµÄÏîÄ¿ÖĞÊÇÕâÑù¡£
-ÏÖÔÚËûÖ§³Ö10ÖÖÓïÑÔ(Ïê¼ûÖ§³ÖÓïÑÔÁĞ±í)¡£Èç¹ûÄãÏë
-ÒªÖ§³Ö¸ü¶àµÄÓïÑÔ£¬Ö»ĞèÒªÌí¼ÓÒªÖ§³ÖµÄÓïÑÔµÄÌØÕ÷
-°ÕÁË¡£
+è¿™æ˜¯ä¸€ä¸ªè‡ªåŠ¨è¯†åˆ«ä»£ç ç‰‡æ®µæ‰€ä½¿ç”¨çš„ç¼–ç¨‹è¯­è¨€çš„é¡¹ç›®ã€‚
+ä»–éå¸¸ç®€å•ï¼Œä½†æ¯”è¾ƒæœ‰æ•ˆã€‚èµ·ç åœ¨æˆ‘çš„é¡¹ç›®ä¸­æ˜¯è¿™æ ·ã€‚
+ç°åœ¨ä»–æ”¯æŒ10ç§è¯­è¨€(è¯¦è§æ”¯æŒè¯­è¨€åˆ—è¡¨)ã€‚å¦‚æœä½ æƒ³
+è¦æ”¯æŒæ›´å¤šçš„è¯­è¨€ï¼Œåªéœ€è¦æ·»åŠ è¦æ”¯æŒçš„è¯­è¨€çš„ç‰¹å¾
+ç½¢äº†ã€‚
 
-Èç¹ûÎÒ·Ç³£ÓĞ¿ÕµÄ»°£¬ÎÒ¿ÉÄÜ»áÎ¬»¤Ò»ÏÂËû¡£
+å¦‚æœæˆ‘éå¸¸æœ‰ç©ºçš„è¯ï¼Œæˆ‘å¯èƒ½ä¼šç»´æŠ¤ä¸€ä¸‹ä»–ã€‚
 
-ÓÃ·¨£º
-  Õâ¸ö³ÌĞòÊ¹ÓÃjavascriptÊµÏÖ£¬ËùÒÔËû½ö½öÊÇÒ»¸öÍø
-  Ò³°ÕÁË¡£ÄãÖ»ĞèÒªÔÚ×°ÓĞä¯ÀÀÆ÷µÄÈÎºÎµçÄÔÉÏ£¬¼òµ¥
-  µÄ´ò¿ªindex.html¼´¿É¡£Ã»ÓĞÈÎºÎ¸ü¶àµÄĞèÇó¡£
+ç”¨æ³•ï¼š
+  è¿™ä¸ªç¨‹åºä½¿ç”¨javascriptå®ç°ï¼Œæ‰€ä»¥ä»–ä»…ä»…æ˜¯ä¸€ä¸ªç½‘
+  é¡µç½¢äº†ã€‚ä½ åªéœ€è¦åœ¨è£…æœ‰æµè§ˆå™¨çš„ä»»ä½•ç”µè„‘ä¸Šï¼Œç®€å•
+  çš„æ‰“å¼€index.htmlå³å¯ã€‚æ²¡æœ‰ä»»ä½•æ›´å¤šçš„éœ€æ±‚ã€‚
 
-Èç¹ûÄãÓĞÈÎºÎÎÊÌâ£¬ÇëÁªÏµ tianzhi0549@163.com.
+å¦‚æœä½ æœ‰ä»»ä½•é—®é¢˜ï¼Œè¯·è”ç³» tianzhi0549@163.com.
 
-Ğ»Ğ»£¡
+è°¢è°¢ï¼
 
-This is a project that could detect which programming 
-language a snippet of code is written by.It's very 
-simple,but it works.At the very least it works very 
-well in my project.Now it supports 10 languages(Pls 
-see supported languages list).In fact,it can support 
+This is a project that could detect by which programming 
+language a snippet of code is written.It's very 
+simple,but it works. At the very least it works very 
+well in my project. Now it supports 10 languages(Please 
+see the supported languages list). In fact,it can support 
 more languages as long as you add features of other 
-language.
+languages.
 
-I could maintain it,if I have a lot of free time.
+I could maintain it, if I have a lot of free time.
 
 usage:
-  The project is written by javascript.So you can use it
+  The project is written by javascript. So you can use it
   as long as your computer have installed a browser(eg.
-  IE,chrome,etc).You only need open index.html by
+  IE,chrome,etc).You only need open index.html via
   your broswer and then I think you know what you 
-  should do next.There isn't more demand.I think every 
-  project should be easy to work.Don't puzzle people!
+  should do next.There isn't more demand.
 
-If you have any questions,please contact me at the following 
+If you have any question,please contact me at the following 
 e-mail address.
 
 tianzhi0549@163.com
@@ -45,7 +44,7 @@ Thanks!
 
 
 
-Ö§³ÖÓïÑÔÁĞ±í£º
+æ”¯æŒè¯­è¨€åˆ—è¡¨ï¼š
 Languages Supported by the project:
   C/C++
   C#
